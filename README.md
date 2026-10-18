@@ -1,10 +1,10 @@
 
 
-📌 Project Overview
+Project Overview
 
 DeepGuard AI is an AI-based fake video detection system designed to analyze video frames and identify potential deepfake content using a pre-trained Machine Learning model. The system provides a preliminary classification of videos as Real or Fake through a simple, interactive web interface.
 
-✨ Features
+ Features
 
 🎥 Upload videos in MP4, AVI, MOV, and MKV formats.
 
